@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Python Full Stack Developer | React Frontend | Django Backend</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&color=00FF9F&width=380&lines=Full-Stack+Developer+%7C+Python+%7C+Django;React+%7C+MongoDB+%7C+AWS+%7C+EC2" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&color=00FF9F&width=380&lines=Django+%7C+Full Stack Developer;React+%7C+MongoDB+%7C+AWS+%7C+EC2" alt="Typing SVG" />
 </p>
 
 
