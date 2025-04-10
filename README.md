@@ -12,7 +12,6 @@
 - 🌱 Learning & building with **MongoDB, PostgreSQL, EC2 & Cloud**
 - 💬 Ask me about **Python, Django, React, and full stack development**
 - 🌐 Exploring **AWS and scalable backend systems**
-- ⚡ Fun fact: I’m also interested in **blockchain & animation tech!**
 
 ---
 
