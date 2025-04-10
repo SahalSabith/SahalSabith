@@ -52,8 +52,8 @@
 ### 📫 Let’s Connect!
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sahalsabith"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin"/></a>
-  <a href="mailto:sahalsabith@gmail.com"><img src="https://img.shields.io/badge/-Gmail-red?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/sahalsabith](https://www.linkedin.com/in/sahal-sabith-406691306"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin"/></a>
+  <a href="mailto:sahalsabithofficial@gmail.com"><img src="https://img.shields.io/badge/-Gmail-red?style=flat&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
